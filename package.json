@@ -1,6 +1,7 @@
 {
   "name": "recipe-generator-app",
   "version": "1.0.0",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@google/generative-ai": "^0.2.0",
