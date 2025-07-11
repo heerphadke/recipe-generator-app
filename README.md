@@ -36,14 +36,8 @@ npm start
 
 ## Deployment
 
-This project can be deployed on Render. Follow these steps:
-
-1. Connect your GitHub repository to Render
-2. Create a new Web Service
-3. Use the following settings:
-   - Build Command: `npm install && npm run build`
-   - Start Command: `serve -s build`
-4. Add your environment variables in Render's dashboard
+This project is deployed on Render and accessible at:
+https://recipe-generator-app-cwe8.onrender.com/
 
 ## Technologies Used
 
